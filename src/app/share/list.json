@@ -52,7 +52,7 @@
 	{
 		"name": "Webp 转换压缩",
 		"logo": "https://www.yysuni.com/images/avatar.png",
-		"url": "https://www.yysuni.com/image-toolbox",
+		"url": "https://orzz.top/image-toolbox",
 		"description": "无限压缩，快且方便，可以直接对比效果",
 		"tags": [
 			"图片"
@@ -71,9 +71,9 @@
 	},
 	{
 		"name": "grok",
-		"logo": "blob:https://orzz.top/48272322-b8ca-4eac-8afb-84e407365de1",
+		"logo": "/images/share/eab15d3212bcfbc6.png",
 		"url": "https://grok.com/",
-		"description": "好用的ai，可以发送网页进行解析，有时候懒得看会发给它然后直接问自己想知道的",
+		"description": "好用的ai，可以发送网址进行解析，有时候懒得看会发给它然后直接问自己想知道的",
 		"tags": [
 			"AI"
 		],
