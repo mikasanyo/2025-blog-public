@@ -1,5 +1,18 @@
 [
   {
+    "slug": "DIY",
+    "title": "激光打印机（星光4n）",
+    "tags": [
+      "DIY",
+      "手工"
+    ],
+    "date": "2025-12-25T02:02",
+    "summary": "复刻了一个大佬的激光打印机小小一个(*^_^*)",
+    "cover": "https://img2.baidu.com/it/u=2745913334,1035517635&fm=253&fmt=auto&app=120&f=JPEG?w=276&h=192",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Git",
     "title": "git同步上游保留自己的修改",
     "tags": [
